@@ -1,6 +1,6 @@
 # Salam Kenal, Saya Mohammad Nur Rizqi Rizal 👋
 
-Saya merupakan seorang **[Jabatan Anda, misal: Mahasiswa Informatika]** di **[Institusi Anda, misal: Universitas X]** yang memiliki minat pada bidang pengembangan perangkat lunak, khususnya dalam **[Minat Utama Anda, misal: Backend Development, Mobile Development, atau Data Science]**.
+Saya merupakan seorang **Mahasiswa** di **Universitas Bina Sarana Informatika** yang memiliki minat pada bidang pengembangan perangkat lunak, khususnya dalam **Front End Development & Back end Development**.
 
 Saya terus berusaha mengembangkan kemampuan teknis maupun non-teknis melalui berbagai proyek pembelajaran mandiri.
 
