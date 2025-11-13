@@ -8,7 +8,6 @@ Saya terus berusaha mengembangkan kemampuan teknis maupun non-teknis melalui ber
 
 ### 🛠️ Teknologi & Tools yang Saya Kuasai
 
-*Hapus/tambahkan baris sesuai keahlian Anda. Untuk ikon lain, cari di [Simple Icons](https://simpleicons.org/).*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -28,8 +27,9 @@ Saya terus berusaha mengembangkan kemampuan teknis maupun non-teknis melalui ber
 
 ### 🔗 Mari Terhubung
 
-Silakan terhubung dengan saya melalui LinkedIn di bawah ini:
+Silakan terhubung dengan saya melalui platform di bawah ini:
 
-* **LinkedIn:** [https://www.linkedin.com/in/rzqizall/](https://www.linkedin.com/in/rzqizall/)
+* **LinkedIn   :** [https://www.linkedin.com/in/rzqizall/](https://www.linkedin.com/in/rzqizall/)
+* **Instagram  :** [https://www.instagram.com/_rzqizall/](https://www.instagram.com/_rzqizall/)
 
 Terima kasih telah berkunjung 👀
