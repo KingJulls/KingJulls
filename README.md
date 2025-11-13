@@ -24,17 +24,7 @@ Saya terus berusaha mengembangkan kemampuan teknis maupun non-teknis melalui ber
 
 ---
 
-### 📊 Statistik GitHub Saya
 
-*(PENTING: Ganti `[USERNAME_GITHUB_ANDA]` di semua link di bawah ini dengan username GitHub Anda yang sebenarnya!)*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_ANDA]&show_icons=true&theme=radical&rank_icon=github" alt="Statistik GitHub Mohammad Nur Rizqi Rizal" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB_ANDA]&layout=compact&theme=radical" alt="Bahasa Teratas" />
-</p>
-
----
 
 ### 🔗 Mari Terhubung
 
